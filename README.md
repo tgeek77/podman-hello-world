@@ -1,7 +1,6 @@
 # podman-hello-world
 
-## This simple image provides the following output when run:
-
+This simple image provides the following output when run:
 ```
 Hello from Podman on SLE Micro!
 This message shows that your installation appears to be working correctly.
@@ -18,7 +17,5 @@ To try something more ambitious, you can run an openSUSE container with:
 Lovingly copied from "hello-world" https://hub.docker.com/_/hello-world
 
 ```
-
-## Suggested command to run this container:
-
+Suggested command to run this container:
 `podman run podman-hello-world`
